@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
 
         Book book = new Book("The Great Gatsby", "F. Scott Fitzgerald", 11);
-        Libo libo = new Libo("Godi ", "Sam@example.com");
+        Libo libo = new Libo("Lam ", "Sam@example.com");
         Borrowing borrowing = new Borrowing(book, libo, "2023-10-01");
 
 
