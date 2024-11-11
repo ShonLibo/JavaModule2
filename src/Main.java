@@ -8,7 +8,7 @@ import Package2.Borrowing;
 public class Main {
     public static void main(String[] args) {
 
-        Book book = new Book("The Great Gatsby", "F. Scott Fitzgerald", 11);
+        Book book = new Book("The Great Gatsby", "Lam .X", 11);
         Libo libo = new Libo("Lam ", "Sam@example.com");
         Borrowing borrowing = new Borrowing(book, libo, "10-05-2023");
 
