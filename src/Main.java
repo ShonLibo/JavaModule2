@@ -10,7 +10,7 @@ public class Main {
 
         Book book = new Book("Fall of Jerico", "Khamis .J ", 11);
         Libo libo = new Libo("MMO ", "Sam@example.com");
-        Borrowing borrowing = new Borrowing(book, libo, "2023-10-01");
+        Borrowing borrowing = new Borrowing(book, libo, "20-07-2024");
 
 
 
