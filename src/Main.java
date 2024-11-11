@@ -10,7 +10,7 @@ public class Main {
 
         Book book = new Book("Life in NY", "Samsom Onyango", 11);
         Libo libo = new Libo("Emma ", "Sam@example.com");
-        Borrowing borrowing = new Borrowing(book, libo, "2023-10-01");
+        Borrowing borrowing = new Borrowing(book, libo, "15-09-2024");
 
 
 
